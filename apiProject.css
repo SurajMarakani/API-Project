@@ -1,0 +1,46 @@
+#mainBody{
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("assets/Original.jpg");
+        background-repeat: no-repeat;
+        background-size:cover;
+        text-align: center;
+        display: inline-block;
+        width: 1903px;
+        height:1000px;
+      }
+
+.searchBtn{
+    margin-top:40vh;
+    margin-left:125px;
+    background-color: #439CD6;
+    padding:15px 32px;
+    border: solid;
+    border-radius: 15px;
+}
+
+#champBtn{
+    text-align: center;
+    /* margin-top:-40px; */
+    margin-left:990px;
+}
+
+
+
+#summonerBtn{
+    text-align: center;
+    margin-top:-38px;
+    margin-left:710px;
+}
+
+      /* for infobox */
+.information{
+    background-color: gray;
+  position: relative;
+  margin-top:50px;
+  margin-right: 750px;
+  margin-left: 750px;
+  padding-top: 10px;
+  /* padding-bottom: 300px; */
+  border: solid;
+  border-radius: 25px;
+} 
+
